@@ -1,11 +1,11 @@
-# Deep Learning based Spatio-Temporal Anomaly Detection in Videos 
+Deep Learning based Spatio-Temporal Anomaly Detection in Videos 
 
 
-## Vishaq Jayakumar
+Vishaq Jayakumar
 
 
 
-## Project Description: 
+Project Description: 
 The primary objective of this project is to develop a deep learning system that is capable of automatically detecting anomaly events, such as shoplifting, arrest, assault etc in surveillance videos.The ability to automatically identify abnormal events or behaviors in video data is crucial for maintaining security, safety, and operational efficiency in diverse environments such as surveillance systems, industrial facilities, transportation networks, and healthcare facilities.The motivation behind this paper lies in the need to explore and harness the capabilities of deep learning-based approaches for anomaly detection in videos. By leveraging the power of deep learning architectures such as Convolutional 3D (C3D), and MobileNet V2, we aim to develop a robust and scalable solution for detecting anomalies in dynamic video environments.
 
 Presentation Video URL: https://drive.google.com/file/d/1rwJnSRiLkoOXfx_N0i76v6iB338PzMVt/view?usp=sharing
